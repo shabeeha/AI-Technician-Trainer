@@ -45,6 +45,12 @@ A technician can:
 - Gradio (interactive UI)
 - Pandas (training score tracking)
 
+## Architecture
+
+The AI Technician Trainer uses a Retrieval-Augmented Generation (RAG) pipeline to convert technical documentation into training summaries, quizzes, and interactive Q&A support.
+
+<img width="573" height="623" alt="image" src="https://github.com/user-attachments/assets/fb31f3e1-2234-4622-a4bd-9f7001d95fcf" />
+
 
 ## Running the Project
 
