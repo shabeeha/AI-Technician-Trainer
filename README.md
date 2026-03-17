@@ -70,7 +70,7 @@ AI_Technician_Trainer.ipynb
 
 ## Demo
 
-Demo video: (Adding LinkedIn post URL soon)
+Demo video: [(LinkedIn video URL)](https://www.linkedin.com/posts/shabeeha-ahmed_generativeai-rag-aiinmanufacturing-activity-7439781794964508672-5DfI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs2ukMBbo5XHW47pdtSUDXQCLYPZE3RJHg)
 
 ---
 
